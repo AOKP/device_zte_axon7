@@ -3,3 +3,4 @@ TARGET_RECOVERY_FSTAB := device/zte/axon7/rootdir/etc/fstab.qcom
 TARGET_RECOVERY_UI_LIB := librecovery_ui_msm
 TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_msm
 TARGET_RELEASETOOLS_EXTENSIONS := device/qcom/common
+TARGET_OTA_ASSERT_DEVICE := ailsa_ii,axon7
