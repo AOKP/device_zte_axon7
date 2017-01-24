@@ -64,6 +64,7 @@ on post-fs-data
     mkdir /data/misc/stargate/bg_estimation 0770 system system
     mkdir /data/misc/stargate/calib_test 0770 system system
     mkdir /data/misc/stargate/database 0770 system system
+    mkdir /data/system/fingerprint 0770 system system
 
     # Create directory for TZ Apps
     mkdir /data/misc/qsee 0770 system system
