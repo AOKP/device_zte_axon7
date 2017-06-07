@@ -346,7 +346,8 @@
 	<!-- Smart PA end-->
 	
 	<!-- Hi-Fi Audio -->
-	<ctl name="AKM HIFI Switch Sel" value="ak4961" />
+	<ctl name="HiFi Function" value="On" />
+	<ctl name="AKM HIFI Switch Sel" value="ak4490" />
 	<ctl name="AKM HIFI Switch Mute" value="off" />
 	<ctl name="AKM HIFI PW" value="off" />
 	<ctl name="AK4490 BICK Frequency Select" value="48fs" />
